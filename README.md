@@ -3,7 +3,6 @@
   技能与工具
 </h2>
 <div align="center">
-  <!-- 使用更美观的动态技能图标 -->
     <img src="https://skillicons.dev/icons?i=python,c,java,spring,mysql,redis,linux,html,css,js,vite,vue,electron,flutter,git,vscode,github,docker&perline=9" /></div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
@@ -17,7 +16,6 @@
  
 
 <div align="center">
-<!-- 添加动态数据卡片 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=may-bug&theme=radical" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=may-bug&theme=radical" width="33%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=may-bug&theme=radical" width="33%" /></div>
